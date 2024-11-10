@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Planshet",
+        "author": "Latest smartphone with 5G connectivity",
+        "published_date": "2024-11-09",
+        "id": 1
+    },
+    {
+        "title": "Smartphone",
+        "author": "Latest smartphone with 5G connectivity",
+        "published_date": "2024-11-09",
+        "id": 2
+    },
+    {
+        "title": "Headphones",
+        "author": "Wireless headphones with noise cancellation",
+        "published_date": "2024-11-09",
+        "id": 3
+    }
+]
